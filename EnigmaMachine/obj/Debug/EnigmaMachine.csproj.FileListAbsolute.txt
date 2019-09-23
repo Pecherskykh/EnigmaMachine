@@ -1,0 +1,10 @@
+E:\git\Lab Works\EnigmaMachine\EnigmaMachine\bin\Debug\EnigmaMachine.exe.config
+E:\git\Lab Works\EnigmaMachine\EnigmaMachine\bin\Debug\EnigmaMachine.exe
+E:\git\Lab Works\EnigmaMachine\EnigmaMachine\bin\Debug\EnigmaMachine.pdb
+E:\git\Lab Works\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.csprojAssemblyReference.cache
+E:\git\Lab Works\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.Properties.Resources.resources
+E:\git\Lab Works\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.csproj.GenerateResource.cache
+E:\git\Lab Works\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.csproj.CoreCompileInputs.cache
+E:\git\Lab Works\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.exe
+E:\git\Lab Works\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.pdb
+E:\git\Lab Works\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.Form1.resources
